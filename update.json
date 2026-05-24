@@ -1,9 +1,9 @@
 {
-  "versionCode": 3.7.7,
+  "versionCode": 30707,
   "versionName": "3.7.7",
   "showDialog": true,
-  "forceUpdate": true,
-  "delayMinutes": 0,
+  "forceUpdate": false,
+  "delayMinutes": 30,
   "updateUrl": "https://dl.dropboxusercontent.com/scl/fi/yzqmc4chwpvj2w6oxmhpr/Admin_1.2_.apk?rlkey=v5rjjxj768ijce8v2x7dvm2ig",
   "patchedBy": "Patched By: Ismail Mods",
   "changelogTitle": "Update Available",
