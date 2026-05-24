@@ -1,10 +1,10 @@
 {
-  "versionCode": 2,
-  "versionName": "2.0",
+  "versionCode": 3.7.7,
+  "versionName": "3.7.7",
   "showDialog": true,
   "forceUpdate": false,
   "delayMinutes": 30,
-  "updateUrl": "https://www.dropbox.com/scl/fi/wkj4vndjohpt3pufu958d/ismailmods_1.0.apk?rlkey=b363dc8cw8yntygs0uncg5gcf&st=3nnox77z&dl=1",
+  "updateUrl": "https://dl.dropboxusercontent.com/scl/fi/3k7iz1i7ealako4w0dp6h/_3.7.6-x.apk?rlkey=68bdcg1xhx6mqevcmum2moyaj&st=gvoifgt9",
   "patchedBy": "Patched By: Ismail Mods",
   "changelogTitle": "Update Available",
   "changelog": "• Bug fixes\n• New features added\n• Performance improved",
