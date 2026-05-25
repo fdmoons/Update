@@ -1,10 +1,10 @@
 {
-  "versionCode": 3.7.6,
-  "versionName": "3.7.6",
+  "versionCode": 3.7.7,
+  "versionName": "3.7.7",
   "showDialog": true,
   "forceUpdate": false,
   "delayMinutes": 1,
-  "updateUrl": "https://www.dropbox.com/scl/fi/8nnumpvbaog58aswodswo/update_.apk?rlkey=mdbvim5h4m87666ho32g62tth&st=roo73bgl&dl=1",
+  "updateUrl": "https://www.dropbox.com/scl/fi/xso2zr5z7l3s6t3xtqsju/3.7.7.apk?rlkey=n0j2bfb7hniwgwmmho26pa8in&st=3gl9b53v&dl=1",
   "patchedBy": "Patched By: Ismail Mods",
   "changelogTitle": "Update Available",
   "changelog": "• Bug fixes\n• New features added\n• Performance improved",
